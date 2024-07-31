@@ -1,4 +1,4 @@
-export var Ruta = "/PortafolioWeb/"
+export var Ruta = "/Vite/"
 export const RutaImg = "/CentroBasico/imagenes/"
 export const navegacion = [{
     name: "Propuestas",

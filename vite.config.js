@@ -9,7 +9,7 @@ import getPageContext from './variables';
 export default defineConfig(
     {
         appType: "mpa",
-        base: "/PortafolioWeb/",
+        base: "/Vite/",
         build: {
             rollupOptions: {
                 input: Object.fromEntries(
