@@ -1,0 +1,20 @@
+{
+  "name": "pw20242",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "glob": "^10.4.5",
+    "less": "^4.2.0",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.2.0",
+    "vite-plugin-handlebars": "^2.0.0",
+    "vite-plugin-minify": "^1.5.2",
+    "vite-plugin-purgecss": "^0.2.12"
+  }
+}
